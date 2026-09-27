@@ -1,0 +1,26 @@
+{
+  "rooftop_bar": {
+    "type": "scene",
+    "asset_name": "TBD"
+  },
+  "restaurant": {
+    "type": "scene",
+    "asset_name": "TBD"
+  },
+  "beach": {
+    "type": "hdri",
+    "asset_name": "TBD"
+  },
+  "mountain_hike": {
+    "type": "hdri",
+    "asset_name": "TBD"
+  },
+  "snow": {
+    "type": "hdri",
+    "asset_name": "TBD"
+  },
+  "pool_party": {
+    "type": "scene",
+    "asset_name": "TBD"
+  }
+}
