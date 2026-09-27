@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai
+python-dotenv
+faster-whisper
+sentence-transformers
+scikit-learn
+numpy
+requests
